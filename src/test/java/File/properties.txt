@@ -1,0 +1,6 @@
+package File;
+
+public class properties {
+reading this file using java
+
+}

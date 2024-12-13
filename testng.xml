@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite">
+    <test name="TestGroup1">
+        <classes>
+            <class name="TestNG.in.SuiteCreate"/>
+            <class name="TestNG.in.GroupTestCases"/>
+
+        </classes>
+    </test>
+
+    <test name="TestGroup2">
+        <classes>
+            <class name="TestNG.in.SkiptDemoTest"/>
+        </classes>
+    </test>
+</suite>

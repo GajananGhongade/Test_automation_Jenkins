@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[test Method name is : Reportstest1]]>
+    </line>
+    <line>
+      <![CDATA[Method status is : 1]]>
+    </line>
+    <line>
+      <![CDATA[test Method name is : Reportstest2]]>
+    </line>
+    <line>
+      <![CDATA[Method status is : 1]]>
+    </line>
+    <line>
+      <![CDATA[test Method name is : Reportstest3]]>
+    </line>
+    <line>
+      <![CDATA[Method status is : 1]]>
+    </line>
+    <line>
+      <![CDATA[test Method name is : Reportstest4]]>
+    </line>
+    <line>
+      <![CDATA[Method status is : 1]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-20T14:56:13 IST" name="Reporting suite" finished-at="2024-11-20T14:56:14 IST" duration-ms="66">
+    <groups>
+    </groups>
+    <test started-at="2024-11-20T14:56:13 IST" name="reports" finished-at="2024-11-20T14:56:14 IST" duration-ms="66">
+      <class name="TestNG.in.ReportGeneration.ReportTest">
+        <test-method signature="Reportstest1()[pri:0, instance:TestNG.in.ReportGeneration.ReportTest@4fe767f3]" started-at="2024-11-20T14:56:14 IST" name="Reportstest1" finished-at="2024-11-20T14:56:14 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test Method name is : Reportstest1]]>
+            </line>
+            <line>
+              <![CDATA[Method status is : 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Reportstest1 -->
+        <test-method signature="Reportstest2()[pri:0, instance:TestNG.in.ReportGeneration.ReportTest@4fe767f3]" started-at="2024-11-20T14:56:14 IST" name="Reportstest2" finished-at="2024-11-20T14:56:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test Method name is : Reportstest2]]>
+            </line>
+            <line>
+              <![CDATA[Method status is : 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Reportstest2 -->
+        <test-method signature="Reportstest3()[pri:0, instance:TestNG.in.ReportGeneration.ReportTest@4fe767f3]" started-at="2024-11-20T14:56:14 IST" name="Reportstest3" finished-at="2024-11-20T14:56:14 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test Method name is : Reportstest3]]>
+            </line>
+            <line>
+              <![CDATA[Method status is : 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Reportstest3 -->
+        <test-method signature="Reportstest4()[pri:0, instance:TestNG.in.ReportGeneration.ReportTest@4fe767f3]" started-at="2024-11-20T14:56:14 IST" name="Reportstest4" finished-at="2024-11-20T14:56:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[test Method name is : Reportstest4]]>
+            </line>
+            <line>
+              <![CDATA[Method status is : 1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Reportstest4 -->
+      </class> <!-- TestNG.in.ReportGeneration.ReportTest -->
+    </test> <!-- reports -->
+  </suite> <!-- Reporting suite -->
+</testng-results>

@@ -1,0 +1,13 @@
+<suite name="MyTestSuite">
+    <test name="BeforeTestSuites">
+        <classes>
+            <class name="TestNG.in.GroupsDemoTest2"/>
+            <class name="TestNG.in.GroupTestCases"/>
+
+        </classes>
+    </test>
+
+    <test name="TestGroup2">
+
+    </test>
+</suite>
